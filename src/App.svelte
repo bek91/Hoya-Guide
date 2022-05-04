@@ -5,7 +5,7 @@
 
 <main>
   <img src={logo} alt="Svelte Logo" />
-  <h1>Hello world!</h1>
+  <h1 class="text-blue-700">Hello world!</h1>
 
   <Counter />
 
